@@ -1,0 +1,1 @@
+"Automatic-octo-guacamole" refers to Autocado, a prototype robot being tested by Chipotle to assist in the process of making guacamole. The device was developed in partnership with the automation startup Vebu. 
